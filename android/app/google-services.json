@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "655484012129",
+    "project_id": "borsatemettutakip",
+    "storage_bucket": "borsatemettutakip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655484012129:android:d67f1905c772c1b5fc0c20",
+        "android_client_info": {
+          "package_name": "com.example.halka_arz_temettu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655484012129-bp05kgsucen661fske12mi7lg3jfrtri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.halka_arz_temettu",
+            "certificate_hash": "ee7e07a0bb7bd5da5e767562353b6667a76fe19a"
+          }
+        },
+        {
+          "client_id": "655484012129-g18fjjljv9l2cuculr0stks0k4n9lej7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwgcChpbFz9CtjTEVpoGnJQfCa6dvlz-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655484012129-g18fjjljv9l2cuculr0stks0k4n9lej7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655484012129-51o1rmbcu8p1bp5n6gjgfa1q8ifb0gg5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.halkaArzTemettu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
